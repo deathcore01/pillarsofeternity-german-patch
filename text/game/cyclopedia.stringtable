@@ -234,7 +234,7 @@ Phantome können sich auch aus Gestandenen manifestieren, die besonders chaotisc
 
 Oger sind ebenso intelligent (oder intelligenter) als die "zivilisierten" Rassen, aber aufgrund ihrer überwältigenden Feindseligkeit gegen Artgenossen hält ihre Zahl gering. Trotz ihrer angeborenen Intelligenz hat sie ihr sprunghaftes Temperament schon immer daran gehindert, sich länger an einem Ort zu konzentrieren, um etwas von bedeutendem kulturellen Wert hervorzubringen. Die meisten leben halbnomadisch und abgeschieden in der Wildnis, wo sie mit geringerer Wahrscheinlichkeit auf andere Oger treffen. Eigentlich finden sie nur während der Paarungszeit halbwegs zuverlässig zueinander, was ihre Zahl meistens ebenso reduziert wie erhöht. Oger mit "friedlicheren" Charakterzügen bemühen sich besonders, jeglichen Kontakt zu vermeiden.
 
-In den seltenen Fällen, in denen Oger tatsächlich zusammenarbeiten, werden sie meistens von einer Oger-Oberin angeführt. Letztere sind sogar noch größer als männliche Oger, verhalten sich ihren Artgenossen gegenüber aber eher weniger aggressiv. Wenn sich Oger gruppiert haben, stellen sie für andere Gestandene oft eine unüberwindbare Bedrohung dar.</DefaultText>
+In den seltenen Fällen, in denen Oger tatsächlich zusammenarbeiten, werden sie meistens von einer Oger-Stammesführerin angeführt. Letztere sind sogar noch größer als männliche Oger, verhalten sich ihren Artgenossen gegenüber aber eher weniger aggressiv. Wenn sich Oger gruppiert haben, stellen sie für andere Gestandene oft eine unüberwindbare Bedrohung dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +250,7 @@ Da Schatten spirituelle Energie absorbieren, sind sie für Kreaturen, die sich a
       <ID>47</ID>
       <DefaultText>Junge Drachen beginnen ihren Lebenskreislauf als Lindwürmer, obwohl die meisten nicht über diese Entwicklungsstufe hinauskommen. Lindwürmer sind schlau und gerissen, aber nicht sonderlich intelligent. Um sich zu einem Jungdrachen (und schließlich zu einem Drachen) zu entwickeln, muss ein Lindwurm genügend Platz und Ressourcen haben. Wenn sie in der Nähe anderer Jungdrachen und Drachen leben, entwickeln sie sich nicht. Sie müssen sich einen Lebensraum suchen, der nicht bereits von einem größeren Artgenossen beansprucht wird.
 
-Da ihre weiteren Entwicklungschancen gering sind, scließen sich die meisten Lindwürmern in Gewölben zusammen. Sie sind mutige und höchst aggressive Kreaturen, wenn auch nicht sonderlich intelligent - dies wird durch die intensive Konkurrenz um Nahrung und Territorien erfordert.</DefaultText>
+Da ihre weiteren Entwicklungschancen gering sind, schließen sich die meisten Lindwürmern in Gewölben zusammen. Sie sind mutige und höchst aggressive Kreaturen, wenn auch nicht sonderlich intelligent - der starke Konkurrenzkampf um Nahrung und Territorien erfordert dies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@ Fähige Druiden können mehrere Geisterwandlerformen erlernen. Sie glauben, dass
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Aufgrund der Geschwindigkeit und einzigartigen Angriffsform von Speerspinnen kämpfen traditionellerweise nur äußerst tapfere (oder dumme) Schwertkämpfer und -kämpferinnen zu Übungszwecken gegen sie - vor allem die Reißzähne. Heutzutage wird diese Tradition nur noch von den urigsten und robustesten angehenden Kriegern verfolgt. Die Speerspinne ist als eines der verwegensten arachnoiden Raubtiere bekannt, da sie sich zum Beutefang weniger auf ihre Netze als auf ihre gezackten Beine verlässt. Aus diesem Grund entfernt sich diese Spezies auch weiter von ihrem Nest als die meisten anderen Spinnen.</DefaultText>
+      <DefaultText>Aufgrund der Geschwindigkeit und einzigartigen Angriffsform von Speerspinnen kämpfen traditionellerweise nur äußerst tapfere (oder dumme) Schwertkämpfer und -kämpferinnen zu Übungszwecken gegen sie - vor allem die Mitglieder der "Reißzähne". Heutzutage wird diese Tradition nur noch von den urigsten und robustesten angehenden Kriegern verfolgt. Die Speerspinne ist als eines der verwegensten arachnoiden Raubtiere bekannt, da sie sich zum Beutefang weniger auf ihre Netze als auf ihre gezackten Beine verlässt. Aus diesem Grund entfernt sich diese Spezies auch weiter von ihrem Nest als die meisten anderen Spinnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -435,7 +435,7 @@ Selbst unter den Beseelern wird die Schaffung von Fleischkonstrukten kontrovers 
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Das allgemeine Verständnis über Guls ist dahingehend, dass sie sich genügend Gerissenheit bewahren, um gefährliche Jäger und Gegner zu sein ... aber nicht genug, um sich über ihren raschen Verfall zu sorgen. Wie Darguls werden sie von abgeschiedenen Umgebungen abgezogen, obwohl sich manche auf der Suche nach leicht zugänglichem Fleisch in der Nähe von Friedhöfen aufhalten. Das Fleisch toter Gestandener sättigt den Hunger eines Guls, kann aber ihr Bedürfnis nach Seelenessenz kaum befriedigen. Die Bewohnung eines Friedhofs kann den Verfall von Guls sogar beschleunigen, da dies ihren Antrieb, lebenden Nahrungsquellen nachzustellen, reduzieren kann.</DefaultText>
+      <DefaultText>Das allgemeine Verständnis über Guls ist dahingehend, dass sie sich genügend Gerissenheit bewahren, um gefährliche Jäger und Gegner zu sein ... aber nicht genug, um sich über ihren raschen Verfall zu sorgen. Wie Darguls werden sie von abgeschiedenen Umgebungen abgezogen, obwohl sich manche auf der Suche nach leicht zugänglichem Fleisch in der Nähe von Friedhöfen aufhalten. Das Fleisch toter Gestandener sättigt den Hunger eines Guls, kann aber ihr Bedürfnis nach Seelenessenz kaum befriedigen. Der längere Aufenthalt auf einem Friedhof kann den Verfall von Guls sogar beschleunigen, da dies ihren Antrieb lebenden Nahrungsquellen nachzustellen, reduzieren kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -729,12 +729,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Verdrehter Knöchel</DefaultText>
+      <DefaultText>Verstauchter Knöchel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Ein verdrehter Knöchel reduziert die Reflexe und die Gewandtheit</DefaultText>
+      <DefaultText>Ein verstauchter Knöchel reduziert die Reflexe und die Gewandtheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -749,12 +749,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Verdrehte Schulter</DefaultText>
+      <DefaultText>Verstauchte Schulter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Eine verdrehte Schulter führt zu einem Malus auf Aktionsgeschwindigkeit und Macht.</DefaultText>
+      <DefaultText>Eine verstauchte Schulter führt zu einem Malus auf Aktionsgeschwindigkeit und Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
